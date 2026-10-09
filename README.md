@@ -6,13 +6,13 @@ I build open source projects (mostly) such as CFD software, I love engineering, 
 
 My research covers Su-57 aerodynamics via NASA DATCOM and engine thermal failure analysis in fighter aircraft ([IDRW](https://idrw.org/research-flags-inlet-design-constraints-in-tejas-mk1-after-dubai-incident/)).
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 📄 [trigodil.github.io](https://trigodil.github.io)
