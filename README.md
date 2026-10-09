@@ -6,6 +6,7 @@ I build open source projects (mostly) such as CFD software, I love engineering, 
 
 My research covers Su-57 aerodynamics via NASA DATCOM and engine thermal failure analysis in fighter aircraft ([IDRW](https://idrw.org/research-flags-inlet-design-constraints-in-tejas-mk1-after-dubai-incident/)).
 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
