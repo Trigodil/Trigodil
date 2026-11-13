@@ -1,8 +1,9 @@
 # Ayush Sreejith
+Independent researcher and engineer working across aerospace, systems, and cybersec.
 
-Independent researcher and engineer working across aerospace, systems, and security.
+I build open source projects (mostly) such as CFD software, I love engineering, and thinking in systems, sometimes way too curious and get carried away. I particularly like theoretical work across mathematics and physics, some problems keep me up at night while I try to solve them. I particularly love fluid mechanics, trajectory optimization and fields of mathematics such as algebraic topology, number theory chaos theory, pretty cool stuff.
 
-I build open source projects (mostly) such as CFD software, I love engineering, and thinking in systems, some of my projects are [CakeCFD](https://cakecfd.org), an open source CFD platform on OpenFOAM with high-order TENO schemes and an AI interface that runs simulations from natural language. I'm working on contributing to Rust and Clang, and improving memory safety in C++. My security work is on HackerOne and VDP findings. I also built [Project Flockwork](https://github.com/Trigodil/Project-Flockwork), a decentralized drone swarm control system in C++ on ROS 2 + Gazebo.
+my projects showcase: [CakeCFD](https://cakecfd.org), an open source CFD platform on OpenFOAM with high-order TENO schemes and an AI interface that runs simulations from natural language. I'm working on contributing to Rust and Clang, and improving memory safety in C++. My security work is on HackerOne and VDP findings. I also built [Project Flockwork](https://github.com/Trigodil/Project-Flockwork), a decentralized drone swarm control system in C++ on ROS 2 + Gazebo.
 
 My research covers Su-57 aerodynamics via NASA DATCOM and engine thermal failure analysis in fighter aircraft ([IDRW](https://idrw.org/research-flags-inlet-design-constraints-in-tejas-mk1-after-dubai-incident/)).
 
