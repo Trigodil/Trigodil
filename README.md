@@ -15,5 +15,3 @@ My research covers Su-57 aerodynamics via NASA DATCOM and engine thermal failure
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
-📄 [trigodil.github.io](https://trigodil.github.io)
